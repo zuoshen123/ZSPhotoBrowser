@@ -26,12 +26,12 @@
 		9102C4751F42DADA00E22554 /* XLZoomingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4541F42DADA00E22554 /* XLZoomingScrollView.m */; };
 		9102C4761F42DADA00E22554 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4561F42DADA00E22554 /* ViewController.m */; };
 		9102C4771F42DADA00E22554 /* ZSLargeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4581F42DADA00E22554 /* ZSLargeCell.m */; };
-		9102C4781F42DADA00E22554 /* UIImageView+ZSExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C45B1F42DADA00E22554 /* UIImageView+ZSExtension.m */; };
-		9102C4791F42DADA00E22554 /* ZSImagePreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C45D1F42DADA00E22554 /* ZSImagePreViewController.m */; };
-		9102C47A1F42DADA00E22554 /* ZSInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C45F1F42DADA00E22554 /* ZSInteractiveTransition.m */; };
-		9102C47B1F42DADA00E22554 /* ZSPresentAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4611F42DADA00E22554 /* ZSPresentAnimation.m */; };
-		9102C47C1F42DADA00E22554 /* ZSUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4631F42DADA00E22554 /* ZSUtils.m */; };
 		9102C47D1F42DADA00E22554 /* ZSThreeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4651F42DADA00E22554 /* ZSThreeCell.m */; };
+		9102C4891F42FED100E22554 /* UIImageView+ZSExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4801F42FED100E22554 /* UIImageView+ZSExtension.m */; };
+		9102C48A1F42FED100E22554 /* ZSImagePreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4821F42FED100E22554 /* ZSImagePreViewController.m */; };
+		9102C48B1F42FED100E22554 /* ZSInteractiveTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4841F42FED100E22554 /* ZSInteractiveTransition.m */; };
+		9102C48C1F42FED100E22554 /* ZSPresentAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4861F42FED100E22554 /* ZSPresentAnimation.m */; };
+		9102C48D1F42FED100E22554 /* ZSUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102C4881F42FED100E22554 /* ZSUtils.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,18 +84,18 @@
 		9102C4561F42DADA00E22554 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		9102C4571F42DADA00E22554 /* ZSLargeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSLargeCell.h; sourceTree = "<group>"; };
 		9102C4581F42DADA00E22554 /* ZSLargeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSLargeCell.m; sourceTree = "<group>"; };
-		9102C45A1F42DADA00E22554 /* UIImageView+ZSExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ZSExtension.h"; sourceTree = "<group>"; };
-		9102C45B1F42DADA00E22554 /* UIImageView+ZSExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ZSExtension.m"; sourceTree = "<group>"; };
-		9102C45C1F42DADA00E22554 /* ZSImagePreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSImagePreViewController.h; sourceTree = "<group>"; };
-		9102C45D1F42DADA00E22554 /* ZSImagePreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSImagePreViewController.m; sourceTree = "<group>"; };
-		9102C45E1F42DADA00E22554 /* ZSInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSInteractiveTransition.h; sourceTree = "<group>"; };
-		9102C45F1F42DADA00E22554 /* ZSInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSInteractiveTransition.m; sourceTree = "<group>"; };
-		9102C4601F42DADA00E22554 /* ZSPresentAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSPresentAnimation.h; sourceTree = "<group>"; };
-		9102C4611F42DADA00E22554 /* ZSPresentAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSPresentAnimation.m; sourceTree = "<group>"; };
-		9102C4621F42DADA00E22554 /* ZSUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSUtils.h; sourceTree = "<group>"; };
-		9102C4631F42DADA00E22554 /* ZSUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSUtils.m; sourceTree = "<group>"; };
 		9102C4641F42DADA00E22554 /* ZSThreeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSThreeCell.h; sourceTree = "<group>"; };
 		9102C4651F42DADA00E22554 /* ZSThreeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSThreeCell.m; sourceTree = "<group>"; };
+		9102C47F1F42FED100E22554 /* UIImageView+ZSExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+ZSExtension.h"; sourceTree = "<group>"; };
+		9102C4801F42FED100E22554 /* UIImageView+ZSExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+ZSExtension.m"; sourceTree = "<group>"; };
+		9102C4811F42FED100E22554 /* ZSImagePreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSImagePreViewController.h; sourceTree = "<group>"; };
+		9102C4821F42FED100E22554 /* ZSImagePreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSImagePreViewController.m; sourceTree = "<group>"; };
+		9102C4831F42FED100E22554 /* ZSInteractiveTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSInteractiveTransition.h; sourceTree = "<group>"; };
+		9102C4841F42FED100E22554 /* ZSInteractiveTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSInteractiveTransition.m; sourceTree = "<group>"; };
+		9102C4851F42FED100E22554 /* ZSPresentAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSPresentAnimation.h; sourceTree = "<group>"; };
+		9102C4861F42FED100E22554 /* ZSPresentAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSPresentAnimation.m; sourceTree = "<group>"; };
+		9102C4871F42FED100E22554 /* ZSUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZSUtils.h; sourceTree = "<group>"; };
+		9102C4881F42FED100E22554 /* ZSUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZSUtils.m; sourceTree = "<group>"; };
 		9111730E1DC1F7CB005650CC /* ZSPhotoBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZSPhotoBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		911173271DC1F7CB005650CC /* ZSPhotoBrowserTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZSPhotoBrowserTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		911173321DC1F7CB005650CC /* ZSPhotoBrowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZSPhotoBrowserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -150,6 +150,7 @@
 		9102C4331F42DADA00E22554 /* ZSPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
+				9102C47E1F42FED100E22554 /* ZSPhotoBrowser */,
 				9102C4341F42DADA00E22554 /* AppDelegate.h */,
 				9102C4351F42DADA00E22554 /* AppDelegate.m */,
 				9102C4361F42DADA00E22554 /* Assets.xcassets */,
@@ -163,7 +164,6 @@
 				9102C4561F42DADA00E22554 /* ViewController.m */,
 				9102C4571F42DADA00E22554 /* ZSLargeCell.h */,
 				9102C4581F42DADA00E22554 /* ZSLargeCell.m */,
-				9102C4591F42DADA00E22554 /* ZSLayouts */,
 				9102C4641F42DADA00E22554 /* ZSThreeCell.h */,
 				9102C4651F42DADA00E22554 /* ZSThreeCell.m */,
 			);
@@ -213,21 +213,21 @@
 			path = XLPhotoBrowser;
 			sourceTree = "<group>";
 		};
-		9102C4591F42DADA00E22554 /* ZSLayouts */ = {
+		9102C47E1F42FED100E22554 /* ZSPhotoBrowser */ = {
 			isa = PBXGroup;
 			children = (
-				9102C45A1F42DADA00E22554 /* UIImageView+ZSExtension.h */,
-				9102C45B1F42DADA00E22554 /* UIImageView+ZSExtension.m */,
-				9102C45C1F42DADA00E22554 /* ZSImagePreViewController.h */,
-				9102C45D1F42DADA00E22554 /* ZSImagePreViewController.m */,
-				9102C45E1F42DADA00E22554 /* ZSInteractiveTransition.h */,
-				9102C45F1F42DADA00E22554 /* ZSInteractiveTransition.m */,
-				9102C4601F42DADA00E22554 /* ZSPresentAnimation.h */,
-				9102C4611F42DADA00E22554 /* ZSPresentAnimation.m */,
-				9102C4621F42DADA00E22554 /* ZSUtils.h */,
-				9102C4631F42DADA00E22554 /* ZSUtils.m */,
+				9102C47F1F42FED100E22554 /* UIImageView+ZSExtension.h */,
+				9102C4801F42FED100E22554 /* UIImageView+ZSExtension.m */,
+				9102C4811F42FED100E22554 /* ZSImagePreViewController.h */,
+				9102C4821F42FED100E22554 /* ZSImagePreViewController.m */,
+				9102C4831F42FED100E22554 /* ZSInteractiveTransition.h */,
+				9102C4841F42FED100E22554 /* ZSInteractiveTransition.m */,
+				9102C4851F42FED100E22554 /* ZSPresentAnimation.h */,
+				9102C4861F42FED100E22554 /* ZSPresentAnimation.m */,
+				9102C4871F42FED100E22554 /* ZSUtils.h */,
+				9102C4881F42FED100E22554 /* ZSUtils.m */,
 			);
-			path = ZSLayouts;
+			path = ZSPhotoBrowser;
 			sourceTree = "<group>";
 		};
 		911173051DC1F7CB005650CC = {
@@ -440,22 +440,22 @@
 				9102C46E1F42DADA00E22554 /* TAAnimatedDotView.m in Sources */,
 				9102C46C1F42DADA00E22554 /* main.m in Sources */,
 				9102C46D1F42DADA00E22554 /* TAAbstractDotView.m in Sources */,
-				9102C47B1F42DADA00E22554 /* ZSPresentAnimation.m in Sources */,
-				9102C4791F42DADA00E22554 /* ZSImagePreViewController.m in Sources */,
 				9102C4741F42DADA00E22554 /* XLProgressView.m in Sources */,
 				9102C4661F42DADA00E22554 /* AppDelegate.m in Sources */,
 				9102C4721F42DADA00E22554 /* UIView+XLExtension.m in Sources */,
 				9102C4761F42DADA00E22554 /* ViewController.m in Sources */,
+				9102C48C1F42FED100E22554 /* ZSPresentAnimation.m in Sources */,
 				9102C4751F42DADA00E22554 /* XLZoomingScrollView.m in Sources */,
 				9102C47D1F42DADA00E22554 /* ZSThreeCell.m in Sources */,
 				9102C4731F42DADA00E22554 /* XLPhotoBrowser.m in Sources */,
-				9102C47A1F42DADA00E22554 /* ZSInteractiveTransition.m in Sources */,
-				9102C47C1F42DADA00E22554 /* ZSUtils.m in Sources */,
-				9102C4781F42DADA00E22554 /* UIImageView+ZSExtension.m in Sources */,
+				9102C4891F42FED100E22554 /* UIImageView+ZSExtension.m in Sources */,
+				9102C48D1F42FED100E22554 /* ZSUtils.m in Sources */,
+				9102C48A1F42FED100E22554 /* ZSImagePreViewController.m in Sources */,
 				9102C46F1F42DADA00E22554 /* TADotView.m in Sources */,
 				9102C4771F42DADA00E22554 /* ZSLargeCell.m in Sources */,
 				9102C4711F42DADA00E22554 /* UIImage+XLExtension.m in Sources */,
 				9102C4701F42DADA00E22554 /* TAPageControl.m in Sources */,
+				9102C48B1F42FED100E22554 /* ZSInteractiveTransition.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
