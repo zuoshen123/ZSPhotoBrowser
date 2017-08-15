@@ -1,0 +1,29 @@
+PODS:
+  - Masonry (1.0.2)
+  - pop (1.0.10)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - Masonry
+  - pop
+  - UITableView+FDTemplateLayoutCell
+  - YYWebImage
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  pop: 82ca6b068ce9278fd350fd9dd09482a0ce9492e6
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: a935da804d5a20a0ccbe115b1f1ef77eab92c8e4
+
+COCOAPODS: 1.1.1
